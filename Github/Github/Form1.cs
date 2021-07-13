@@ -24,7 +24,7 @@ namespace Github
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Test");
+            MessageBox.Show("Stop. Don't do that.");
         }
     }
 }
